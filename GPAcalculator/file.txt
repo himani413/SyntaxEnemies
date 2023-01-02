@@ -1,0 +1,12 @@
+Year   course code   grade   credits
+2   SENG 12221   A+   1
+1   SENG 12223   A   3
+1   SENG 15223   B   3
+2   SENG 22223   C-   3
+3   SENG 3334   B+   4
+Year	course code	grade	credits
+2	SENG 12221	A+	1
+1	SENG 12223	A	3
+1	SENG 15223	B	3
+2	SENG 22223	C-	3
+3	SENG 3334	B+	4
